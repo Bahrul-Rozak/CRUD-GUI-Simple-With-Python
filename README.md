@@ -10,8 +10,6 @@ pip3 install pymysql <br>
 pip3 install xlsxwriter <br>
 pip3 install mysql-connector <br>
 
-# Install-MY-SQL-Ubuntu
-
 # How to install MYSQL on ubuntu 20.04 
 
 1. sudo apt update
