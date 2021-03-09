@@ -4,6 +4,7 @@ Tools yang digunakan<br>
 2. QTdesigner
 <br>
 Bahasa <br>
+Python <br>
 # How to install QtDesigner tool on ubuntu/ linux PyQt5 
  • pip3 install --user pyqt5              
  • sudo apt-get install python3-pyqt5   
