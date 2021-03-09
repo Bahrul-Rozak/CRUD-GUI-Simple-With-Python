@@ -2,9 +2,8 @@
 Tools yang digunakan<br>
 1. Visual Studio Code <br>
 2. QTdesigner
-
-Bahasa <br>
-Python <br>
+<br>
+Bahasa: Python 
 Library <br>
 1. Pymysql <br>
 2. xlsxwriter <br>
