@@ -2,9 +2,13 @@
 Tools yang digunakan<br>
 1. Visual Studio Code <br>
 2. QTdesigner
-<br>
 Bahasa <br>
 Python <br>
+Library <br>
+1. Pymysql <br>
+2. xlsxwriter <br>
+3. mysql-connector
+
 
 # How to install QtDesigner tool on ubuntu/ linux PyQt5
 <br>
