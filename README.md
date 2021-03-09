@@ -1,5 +1,6 @@
 # CRUD-GUI-Simple-With-Python <br>
 Tools yang digunakan<br>
+1. Visual Studio Code <br>
 # How to install QtDesigner tool on ubuntu/ linux PyQt5 
  • pip3 install --user pyqt5              
  • sudo apt-get install python3-pyqt5   
