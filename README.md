@@ -1,4 +1,8 @@
 # CRUD-GUI-Simple-With-Python <br>
+
+## Screenshoot Project
+![image](https://github.com/Bahrul-Rozak/CRUD-GUI-Simple-With-Python/blob/main/GUI.png)
+
 Tools yang digunakan<br>
 1. Visual Studio Code <br>
 2. QTdesigner
